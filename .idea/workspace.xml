@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be1e07eb-c69f-4502-ae46-6b56d5e836ed" name="Default Changelist" comment="" />
+    <list default="true" id="be1e07eb-c69f-4502-ae46-6b56d5e836ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/多人博客案例.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/多人博客案例.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typeidea/typeidea/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/typeidea/typeidea/settings/base.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cTIMfN7rm4Ikzsxzb810Sr0Ywi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +31,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Django企业开发实战/《Django企业开发实战》源码" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -48,10 +58,14 @@
     </state>
     <state x="496" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.832/1920.0.1920.1050@0.0.1536.832" timestamp="1590546623796" />
     <state x="2540" y="276" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.832/1920.0.1920.1050@1920.0.1920.1050" timestamp="1590547327011" />
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1590546843821">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1590822511371">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.832/1920.0.1920.1050@0.0.1536.832" timestamp="1590546843821" />
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.832/1920.0.1920.1050@0.0.1536.832" timestamp="1590822511371" />
+    <state x="449" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1590821138857">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="449" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.832/1920.0.1920.1050@0.0.1536.832" timestamp="1590821138857" />
     <state x="431" y="153" width="672" height="678" key="search.everywhere.popup" timestamp="1590546578379">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
